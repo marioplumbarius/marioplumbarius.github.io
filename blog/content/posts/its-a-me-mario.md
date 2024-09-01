@@ -17,6 +17,12 @@ hideBackToTop: false
 
 ## 1990-2007: childhood > adolescence < adulthood
 ### 1990: My first video game appearance (Donkey Kong)
+
+<figure align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Donkey_Kong_Gameplay.png/220px-Donkey_Kong_Gameplay.png">
+    <figcaption>The first stage, with Mario holding a hammer power-up.</figcaption>
+</figure>
+
 I was born in a city named [Caicó](https://en.wikipedia.org/wiki/Caic%C3%B3), from state of Rio Grande do Norte, Brazil. The name Caicó is derived from the **indigenous** word Queicuó, meaning 'Cuó river and mountain'.
 
 ### 1992: The debut appearance of Wario (Super Mario Land 2)
