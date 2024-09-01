@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "It's-a me, Mario"
 date: "1990-07-22"
 summary: "From plumbling to software engineering."
