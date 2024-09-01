@@ -18,23 +18,18 @@ hideBackToTop: false
 ## 1990-2007: childhood > adolescence < adulthood
 ### 1990: My first video game appearance (Donkey Kong)
 
-<figure>
-    <img class="img-center" src="mario-baby.png" alt="Mario Baby">
-    <figcaption class="text-center">Mario Baby</figcaption>
-</figure>
+![Mario Baby](mario-baby.png#center)
 
-I was born in a city named [Caicó](https://en.wikipedia.org/wiki/Caic%C3%B3), from state of Rio Grande do Norte, Brazil. The name Caicó is derived from the **indigenous** word Queicuó, meaning 'Cuó river and mountain'.
+I was born in [Caicó](https://en.wikipedia.org/wiki/Caic%C3%B3), a city in the state of Rio Grande do Norte, Brazil. The name Caicó is originates from the [indigenous](https://en.wikipedia.org/wiki/Indigenous_peoples_in_Brazil) word *'Queicuó'*, which means *'Cuó river and mountain'*. The region is also known for constant **droughts and extreme poverty**.
 
 ### 1992: The debut appearance of Wario (Super Mario Land 2)
-In the early 1990s, Brazil faced **significant economic challenges**, including high inflation, unemployment, and limited economic opportunities in rural and less developed areas - Caicó being one of them. São Paulo - being the industrial and financial center - attracted many people from across Brazil seeking better living conditions and economic prospects. In 1992, my family (Mama, aunts and uncles) moved to São Paulo looking for better opportunities.
+
+![Mario Baby in Poverty](mario-baby-poverty.png#center)
+
+In the early 1990s, Brazil faced [significant economic challenges](https://en.wikipedia.org/wiki/Economic_history_of_Brazil#1990%E2%80%931993) in less developed areas, such as Caicó. [São Paulo](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo) - being the industrial and financial center - attracted my Mama's family, which were seeking better living conditions and economic prospects. We moved in 1992.
 
 ### 1993-2006: Black Box (The Perfect Run Bowser)
 I will write more about this once I feel ready to share publicly. For now, let's just say I *lived in a bubble* - or more specifically, in a **Resilience Bootcamp**.
-
-#### Resilience Bootcamp (to be defined...)
-While I'm not going into specifics [yet], the events that I experienced during this period of my life shaped my character and helped me find purpose in life. Until I feel brave enough to share more, I will quote Toad:
-
-> *"If I group together the traumas that all my clients suffered, it still won't be enough to get closer to what you have been through."* - Toad
 
 ## 2008-2012: Failing fast; REALLY fast.
 ### 20XX: My first computer
