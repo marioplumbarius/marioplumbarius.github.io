@@ -31,8 +31,21 @@ In the early 1990s, Brazil faced [significant economic challenges](https://en.wi
 ### 1993-2006: Black Box (The Perfect Run Bowser)
 I will write more about this once I feel ready to share publicly. For now, let's just say I *lived in a bubble* - or more specifically, in a **Resilience Bootcamp**.
 
-## 2008-2012: Failing fast; REALLY fast.
-### 20XX: My first computer
+## 2008-2011: Failing fast; REALLY fast.
+### 2012: My first computer (Famicom)
+
+![Mario First Computer](mario-first-computer.png#center)
+
+Investing in a computer as a 23 year old me was... challenging. I was married, living in a 1-bedroom house with my in-law and 3 dogs. I didn’t have the money to buy it, so I took out a loan from a financial institution and hoped I'd be able to pay it fully. Turns out I never did, but it was the best investment I did back then. It allowed me to have access to free education, other cultures and, more importantly, it **empowered me to be my best self**.
+
+![Mario First Laptop](mario-first-laptop.jpg#center)
+
+It was a Samsung Laptop running ~~Windows~~ **Linux** (thanks to [Luigi](https://www.linkedin.com/in/erikhenrique/)) - which was the perfect fit for me, given I was hungry to learn more on [how to think like a computer scientist](https://openbookproject.net/thinkcs/python/english3e/).
+
+A few months later, I borrowed a monitor from Mama. Below is a snapshot of my setup back then: **functional and terribly uncomfortable** is how I would describe it.
+
+![Mario Terribly Uncomfortable](mario-office-setup.jpg#center)
+
 ## 2013-2024: Plumbing Software Engineering
 ### 2013-2016: from newbie to a hyper-focused engineer
 ### 2017-2019: always day 1
