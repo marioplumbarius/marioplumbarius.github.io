@@ -2,7 +2,7 @@
 draft: false
 title: "It's-a me, Mario"
 date: "1990-07-22"
-summary: "From plumbling to software engineering."
+summary: "From Plumbing to Software Engineering."
 description: ""
 toc: true
 readTime: true
@@ -20,7 +20,7 @@ hideBackToTop: false
 
 ![Mario Baby](mario-baby.png#center)
 
-I was born in [Caicó](https://en.wikipedia.org/wiki/Caic%C3%B3), a city in the state of Rio Grande do Norte, Brazil. The name Caicó is originates from the [indigenous](https://en.wikipedia.org/wiki/Indigenous_peoples_in_Brazil) word *'Queicuó'*, which means *'Cuó river and mountain'*. The region is also known for constant **droughts and extreme poverty**.
+I was born in [Caicó](https://en.wikipedia.org/wiki/Caic%C3%B3), a city in the state of Rio Grande do Norte, Brazil. The name Caicó originates from the [indigenous](https://en.wikipedia.org/wiki/Indigenous_peoples_in_Brazil) word *'Queicuó'*, which means *'Cuó river and mountain'*. The region is also known for constant **droughts and extreme poverty**.
 
 ### 1992: The debut appearance of Wario (Super Mario Land 2)
 
@@ -31,7 +31,7 @@ In the early 1990s, Brazil faced [significant economic challenges](https://en.wi
 ### 1993-2006: Black Box (The Perfect Run Bowser)
 I will write more about this once I feel ready to share publicly. For now, let's just say I *lived in a bubble* - or more specifically, in a **Resilience Bootcamp**.
 
-## 2008-2011: Failing fast; REALLY fast.
+## 2008-2011: Failing fast; REALLY fast (Hotel Mario)
 ### 2012: My first computer (Famicom)
 
 ![Mario First Computer](mario-first-computer.png#center)
@@ -51,4 +51,4 @@ A few months later, I borrowed a monitor from Mama. Below is a snapshot of my se
 ### 2017-2019: always day 1
 ### 2020-2022: always day 2-1
 ### 2023-2024: always day 3-2
-## now: glorious
+## present...
