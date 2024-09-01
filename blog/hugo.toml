@@ -1,4 +1,4 @@
-baseURL = 'https://marioplumbarius.github.io/blog/'
+baseURL = 'https://marioplumbarius.github.io/'
 languageCode = 'en-us'
 title = 'Mario [Plumbarius] Souza'
 theme = 'typo'
@@ -11,7 +11,7 @@ tag = 'tags'
 
 [params]
 # Meta description
-description = "From Plubling to Software Engineering."
+description = "From Plumbing to Software Engineering."
 
 # Appearance settings
 theme = 'auto'
