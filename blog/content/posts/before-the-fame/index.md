@@ -113,3 +113,34 @@ A few months later, I got fired. Thanks uncle!
 
 #### Lessons Learned
 Family-owned business has a lower entry barrier. Party should always come after work, not before. Repetitive tasks are highly detrimental to my level of satisfaction.
+
+## LAN center
+
+![Mario Computer Attendant](mario-computer-attendant.png#center)
+
+Back in 2006, Brazil was giving free bus rides to elderly people, in an attempt to provide them with a better quality of life. Many of them wanted to travel cross-state, so they would head over to [one of the busiest bus terminals in Brazil](https://en.wikipedia.org/wiki/Tiet%C3%AA_Bus_Terminal). There was a LAN center in that bus terminal that offered printing services - that's where elderly people would go to print their bus tickets.
+
+### My first interview
+
+![Mario Interview](mario-interview.png#center)
+
+One of the bus drivers told my mom the LAN center was hiring, so I applied. I don't remember much from that interview, but I do recall me and the manager had a coffee together and chatted about the role. I was a bit confused why he was so cool with me, but later I realized paying less than the minimum wage for a teenager to work in a highly stressful environment was a good deal, for him. Regardless, it was one of the best interviews I've ever had. Thanks for the chat, Mr. Manager!
+
+So, I got the job: 20 hours per week, 4 hours per day, 5 days a week. I was paid $400 per month. So far so good, except, I had to open the LAN center at 6am sharp. If the LAN center didn't open on time, it would get fined. To this day, I still don't know how much the fine was, but given how broken Brazilian culture is, I'm pretty sure it was a lot. Thanks Mr. Manager for never telling me how much it was, because...
+
+### Social Skills
+The job consisted of opening and operating the LAN center, talking to customers (a lot of them) and printing bus tickets to elderly people. Operating the computers was easy, but dealing with customers was brutally stressful. Because it was a bus terminal, I would easily speak to 50-100 people per day. At the end of my shift, I was exausted. Many people didn't even know how to use a computer, and they would get angry if they couldn't achieve what they wanted, the way they wanted it.
+
+At the flip side, because I spoke English, many foreigners would come to me to ask for help. One day, a visitor from the US stopped by to ask for help and stayed for several hours talking about life and how life in US is so much easier than in Brazil. It was the first time I spoke with a foreigner in English, and I sounded like [Lil Wayne](http://lilwayne-brasil.blogspot.com/) after the first 40 minutes - so good.
+
+#### Lessons Learned
+Dealing with customers was challenging and required a lot of patience. Conversation is one of the best ways to practice a new language (English).
+
+### Taking risks: sleeping at my desk
+
+![Mario Sleeping Desk](mario-sleeping-desk.png#center)
+
+Considering my history of going to work after party, 6am was way too early for a young teenager making $400 per month and learning how to have fun. History repeated itself: I went to a party on Sunday evening, didn't sleep and went straight to work. I was so tired that I slept on my desk multiple times. Customers would literally poke me to wake me up, multiple times. I don't remember exactly what happened that day, but I didn't get fired.
+
+#### Lessons Learned
+I must never party on Sunday evening. I'm not a morning person.
