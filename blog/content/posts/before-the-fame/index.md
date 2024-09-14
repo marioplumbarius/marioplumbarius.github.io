@@ -8,7 +8,7 @@ toc: true
 readTime: true
 autonumber: true
 math: true
-tags: ["resilience", "social skills"]
+tags: ["resilience", "social skills", "risk taking"]
 showTags: true
 hideBackToTop: false
 ---
@@ -39,7 +39,7 @@ I, at the other hand, was a very quiet and observing child.
 
 As a very shy kid, my brain was full of those thoughts and I simply couldn't become a social butterfly overnight. However, I could see the impact my aunt's social skills had in our lives, I knew I had to try to be more social. The only mistake here was that I didn't know I would need constant support - which I never really had for various reasons, including the fact my whole family was trying to survive without formal education and social inequalities. Supporting me in my journey to become more social was the least of their concerns.
 
-#### Lesson Learned
+#### Lessons Learned
 It took me more than 20 years to figure out how to become more social. Once I learned, I decided I don't want to. I learned being my best self, shy, is more important then being social. In fact, I learned the more I respect my uniqueness, the more happy I become.
 
 ### Resilience
@@ -68,7 +68,7 @@ There are 99 reasons for people to become scammers, such as the result of the hi
 - Short answer: Because social imbalances - left behind by [Colonialism](https://en.wikipedia.org/wiki/Colonialism) - push individuals toward unethical behaviors as a means to cope and survive.
 - Long answer: Nowadays, as a Software Engineer, part of my job is to influence people different than me to do things I find relavant to the business - including when they don't agree with me. If I establish and maintain control and exploitation of those individuals, what do you think the result would be?
 
-#### Lesson Learned
+#### Lessons Learned
 Never leave the shop unattended.  Never trust people who are not from my family. Always check if money is fake or not.
 
 ## Flyer Distribution
@@ -87,3 +87,29 @@ My uncle opened a Pizzeria, and the best way to let customers know there is a ne
 > What do I have to do, so that I never have to do this again?
 
 Well, at the age of 11-14 (yeah, my memory sucks), I didn't have many options, so I chose the best option I had at that time: I threw some of them in the bin. lol. Sorry, uncle, I was learning, it was a necessary experience to understand my own limits.
+
+## Printing Service
+
+> Income: pizza and minimum wage.  
+> Age: 12-16 years old.
+
+![Mario Printing Services](mario-printing-services.png#center)
+
+My uncle also owned a printing service, which I would ocassionally help him with. At the end of the shift, we would eat a good Brazilian Pizza. Good deal, right?
+
+Anyways, at the age of 16, I was legally allowed to work in Brazil, so I asked to be hired as a full-time employee. It was the first time I was paid more than a hundred dollars per month; it was also the first time I had to work on a schedule, from Monday to Friday. Being able to pay for my own expenses was a big deal for me, but I don't remember how I spent the money other than with fast food. Lots of it.
+
+It was a family business. That's where I met my cousin-in-law, Vagner. Vagner was older than me. He had a car and goals in life. I was just a teenager trying to figure out how to survive. Vagner also liked to party. A lot!
+
+### Taking risks: a nap on the bathroom
+
+![Mario Bathroom](mario-bathroom.png#center)
+
+One day, me and Vagner went to a party, on a Sunday evening. We had a good time. So good we didn't even sleep and went to work the next day. I could barely stand still, but I tried my best. I was so tired that I slept on the bathroom. 2 hours later, I left the bathroom after the crowd at work was wondering if I was dead or alive. My uncle was furious, but he didn't fire me.
+
+The excitement lasted for a few months, because the work was manual and brutally repetitive - I'd literally repeat the same task over and over again, for 8 hours a day. Piles of paper to fold. It was a torture.
+
+A few months later, I got fired. Thanks uncle!
+
+#### Lessons Learned
+Family-owned business has a lower entry barrier. Party should always come after work, not before. Repetitive tasks are highly detrimental to my level of satisfaction.
