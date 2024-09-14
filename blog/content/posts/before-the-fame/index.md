@@ -17,6 +17,9 @@ Before becoming a Software Engineer, I had a few jobs that helped me grow and ex
 
 ## Street Vendor
 
+> Income: $20-$100 per week.
+> Age: 7-10 years old.
+
 ![Mario Street Vendor](mario-street-vendor.png#center)
 
 My aunt was a full-time street vendor in São Paulo. She sold all random things you can imagine, from small batteries up to clothes. During my childhood, I spent a lot of time with her, and in multiple ocasions, I would go to free market and sell those items. I also sold biscuits in buses during São Paulo rush hours, with a friend from the church - in 2 occasions. My mom would also cook some home-made ice cream, which I'd sell around our neighborhood.
@@ -67,3 +70,31 @@ There are 99 reasons for people to become scammers, such as the result of the hi
 
 #### Lesson Learned
 Never leave the shop unattended.  Never trust people who are not from my family. Always check if money is fake or not.
+
+## Flyer Distribution
+
+> Income: $50 per day.
+> Age: 12-14 years old.
+
+![Mario Flyer Distribution](mario-flyer-distribution.png#center)
+
+### Plaza Sul Shopping
+
+Distribution of flyers in the streets and traffic of São Paulo is a common practice for young folks in Brazil. My first job as a flyer distributor was for a company that restored car's seats. Every weekend, I'd distribute two hundred flyers to cars stopped by a traffic light in Plaza Sul Shopping (see below). Given how shy I was back then, and how hot the sun was close to lunch time, it was quite challenging.
+
+<iframe
+  src="https://www.google.com/maps/embed?pb=!4v1726315885549!6m8!1m7!1s-I6akcKeSXGGjvmsUgRA-g!2m2!1d-23.61930459130828!2d-46.62761510778451!3f58.579235!4f0!5f0.7820865974627469"
+  width="400"
+  height="300"
+  style="border:0;display:block;margin:auto"
+  allowfullscreen=""
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+
+### Uncle's Pizzeria
+My uncle opened a Pizzeria, and the best way to let customers know there is a new player in the neighborhood was to distribute flyers. Every weekend, he would drop me with give hundred flyers and I'd distrubute them in the streets nearby. It was an overly repetitive job - one flyer at a time being thrown inside a house - there were five hundred of them, so it would always take me hours before I could finish distributing. My feet hurt really bad and I couldn't think about anything else other than:
+> How many flyers do I have left? Am I close to the end?  
+> What do I have to do, so that I never have to do this again?
+
+Well, at 12 years old, I didn't have many options, so I chose the best option I had at that time: I threw them in the bin. lol. Sorry, uncle, I was learning, it was a necessary lesson to understand my own limits.
