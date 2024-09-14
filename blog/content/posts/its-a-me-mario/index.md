@@ -45,7 +45,7 @@ It was a Samsung Laptop running ~~Windows~~ **Linux** (thanks to [Erik](https://
 ![Mario Internship](mario-internship.png#center)
 
 #### 1st Attempt: Failed
-Back then, I didn't know how to build connections with people, so I always used a direct approach. First I asked the course coordinator for instructions on how to find a internship.
+Back then, I didn't know how to build connections with people, so I always used a direct approach. First I asked the course coordinator for instructions on how to find an internship.
 > Hey Mario. You're here only for 4 months. It's your first semester. You need to wait at least until your 4th semester to apply for internships. You won't find anything until then. Have patience.
 
 #### 2nd Attempt: Skipped
