@@ -8,7 +8,7 @@ toc: true
 readTime: true
 autonumber: true
 math: true
-tags: ["resilience", "social skills", "risk taking"]
+tags: ["resilience", "social skills", "risk taking", "interview"]
 showTags: true
 hideBackToTop: false
 ---
