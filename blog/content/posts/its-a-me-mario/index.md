@@ -8,12 +8,12 @@ toc: true
 readTime: true
 autonumber: true
 math: true
-tags: [""]
+tags: ["university", "internship", "php"]
 showTags: true
 hideBackToTop: false
 ---
 
-> *Note: This is a work in progress post.*
+Below is a quick summary of my life, since the day I was born, until my first job in Software Development.
 
 ## 1990: Hello, World!
 
@@ -56,7 +56,7 @@ A lot of them replied. Some of them didn't have an open role, but they still wan
 #### 3rd Attempt: Succeeded!
 I said I didn't know how to build connections with everyone, but I knew how to make them laugh, and I made [Daniel](https://www.linkedin.com/in/danielfilho/) laugh hard many times. So I asked him to recommend me to [iG](https://www.linkedin.com/company/portalig/) for an internship. Which he did. I and other two class mates from uni passed the interview and we worked as a team. Let's go!
 
-## 2013: Internship
+## 2013: Computer Science Internship
 ![](https://ig-canais-noticias.pages.dev/logo_iguinho_home.webp#center)
 I left my stable paying SEO job to work as an intern in a field I wasn't familiar with yet. The moment I did that, I started to use my savings to pay for my uni. In fact, I wouldn't have cashflow to pay for my bills in 6 months. Interestingly enough, that was the timeline for my internship, so I worked really hard to get promoted to a full-time role. And thanks to the shockingly empowerment I received from everyone at iG, I not only got a full-time role, but I also transitioned to a Backend role (something I learned I prefered) and then got a huge pay bump.
 
