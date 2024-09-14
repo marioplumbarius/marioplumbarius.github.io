@@ -91,13 +91,13 @@ Well, at the age of 11-14 (yeah, my memory sucks), I didn't have many options, s
 ## Printing Service
 
 > Income: pizza and minimum wage.  
-> Age: 12-16 years old.
+> Age: 12-15 years old.
 
 ![Mario Printing Services](mario-printing-services.png#center)
 
 My uncle also owned a printing service, which I would ocassionally help him with. At the end of the shift, we would eat a good Brazilian Pizza. Good deal, right?
 
-Anyways, at the age of 16, I was legally allowed to work in Brazil, so I asked to be hired as a full-time employee. It was the first time I was paid more than a hundred dollars per month; it was also the first time I had to work on a schedule, from Monday to Friday. Being able to pay for my own expenses was a big deal for me, but I don't remember how I spent the money other than with fast food. Lots of it.
+Sometime between 12 and 15 years old, I asked him to work full-time. It was the first time I was paid more than a hundred dollars per month; it was also the first time I had to work on a schedule, from Monday to Friday. Being able to pay for my own expenses was a big deal for me, but I don't remember how I spent the money other than with fast food. Lots of it.
 
 It was a family business. That's where I met my cousin-in-law, Vagner. Vagner was older than me. He had a car and goals in life. I was just a teenager trying to figure out how to survive. Vagner also liked to party. A lot!
 
