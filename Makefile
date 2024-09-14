@@ -1,2 +1,2 @@
 dev:
-	cd blog; hugo server; cd ..
+	cd blog; hugo server -D; cd ..
