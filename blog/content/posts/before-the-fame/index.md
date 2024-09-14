@@ -147,3 +147,19 @@ Considering my history of going to work after party, 6am was way too early for a
 
 #### Lessons Learned
 I must never party on Sunday evening. I'm not a morning person.
+
+## Delivery (by bus)
+
+> Income: minimum wage.
+> Age: 17 years old.
+
+I worked as the delivery guy for a dental prostheses, which was a family-owned business from one of my friends. My job was to deliver the prostheses to the dentist's office by public transport. I liked to travel by bus, so it was a good deal. I'd deliver from 2 to 4 dental prostheses per day and travel 100km max. Buses in Brazil were very noisy and crowded, so this was a way to practice my resilience.
+
+### Lessons Learned
+Repetitive tasks are highly detrimental to my level of satisfaction, even if they are a little bit dynamic, such as traveling around the city by bus.
+
+## Logistics
+
+![Mario Logistics](mario-logistics.png#center)
+
+TBD.
