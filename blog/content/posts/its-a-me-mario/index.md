@@ -41,6 +41,9 @@ Investing in a computer as a 22 year old me was... challenging. I was married, l
 It was a Samsung Laptop running ~~Windows~~ **Linux** (thanks to [Erik](https://www.linkedin.com/in/erikhenrique/) for the *influence*) - which was the perfect fit for me, given I was hungry to learn everything about computers.
 
 ### Finding an internship
+
+![Mario Internship](mario-internship.png#center)
+
 #### 1st Attempt: Failed
 Back then, I didn't know how to build connections with people, so I always used a direct approach. First I asked the course coordinator for instructions on how to find a internship.
 > Hey Mario. You're here only for 4 months. It's your first semester. You need to wait at least until your 4th semester to apply for internships. You won't find anything until then. Have patience.
@@ -54,6 +57,7 @@ A lot of them replied. Some of them didn't have an open role, but they still wan
 I said I didn't know how to build connections with everyone, but I knew how to make them laugh, and I made [Daniel](https://www.linkedin.com/in/danielfilho/) laugh hard many times. So I asked him to recommend me to [iG](https://www.linkedin.com/company/portalig/) for an internship. Which he did. I and other two class mates from uni passed the interview and we worked as a team. Let's go!
 
 ## 2013: Internship
-I left my stable paying SEO job to work as an intern in a field I wasn't familiar with yet. The moment I did that, I started to use my savings to pay for my uni. In fact, I wouldn't have cashflow to pay for my bills in 6 months. Interestingly enough, that's the timeline for a internship, so I worked really hard to get promoted to a full-time role. And thanks to the shockingly empowerment I received from everyone at iG, I not only got a full-time role, but I also transitioned to BE (something I learned I prefered) and then got a huge pay bump.
+![](https://ig-canais-noticias.pages.dev/logo_iguinho_home.webp#center)
+I left my stable paying SEO job to work as an intern in a field I wasn't familiar with yet. The moment I did that, I started to use my savings to pay for my uni. In fact, I wouldn't have cashflow to pay for my bills in 6 months. Interestingly enough, that was the timeline for my internship, so I worked really hard to get promoted to a full-time role. And thanks to the shockingly empowerment I received from everyone at iG, I not only got a full-time role, but I also transitioned to a Backend role (something I learned I prefered) and then got a huge pay bump.
 
-My time at iG was one of the most enjoyable experiences at work I've ever had. I will talk more about this in the future, but for now, I'll just say that it was amazing.
+My time at iG was one of the most enjoyable experiences at work I've ever had. I will talk more about this in the future, but for now, I'll just say that it was life changing.
