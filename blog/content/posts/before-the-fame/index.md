@@ -86,4 +86,4 @@ My uncle opened a Pizzeria, and the best way to let customers know there is a ne
 > How many flyers do I have left? Am I close to the end?  
 > What do I have to do, so that I never have to do this again?
 
-Well, at 12 years old, I didn't have many options, so I chose the best option I had at that time: I threw some of them in the bin. lol. Sorry, uncle, I was learning, it was a necessary experience to understand my own limits.
+Well, at the age of 11-14 (yeah, my memory sucks), I didn't have many options, so I chose the best option I had at that time: I threw some of them in the bin. lol. Sorry, uncle, I was learning, it was a necessary experience to understand my own limits.
