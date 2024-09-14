@@ -56,3 +56,6 @@ A lot of them replied. Some of them didn't have an open role, but they still wan
 I said I didn't know how to build connections with everyone, but I knew how to make them laugh, and I made [Daniel](https://www.linkedin.com/in/danielfilho/) laugh hard many times. So I asked him to recommend me to [iG](https://www.linkedin.com/company/portalig/) for an internship.
 
 ## 2013: Internship
+I left my stable paying SEO job to work as an intern in a field I wasn't familiar with yet. As a result, I didn't have money to pay for uni anymore. In fact, I wouldn't have cashflow to pay for my bills in 6 months. Interestingly enough, that's the timeline for a internship, so I worked REALLY hard to get promoted to a full-time role. And thanks to the shockingly empowerment I received from everyone at iG, I not only got a full-time role, but I also transitioned to BE (something I learned I prefered) and then got a huge pay bump.
+
+My time at iG was one of the most enjoyable experiences at work I've ever had. I will talk more about this in the future, but for now, I'll just say that it was amazing.
