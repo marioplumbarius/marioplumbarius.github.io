@@ -116,6 +116,9 @@ Family-owned business has a lower entry barrier. Party should always come after 
 
 ## LAN center
 
+> Income: $400 per month.  
+> Age: 16 years old.
+
 ![Mario Computer Attendant](mario-computer-attendant.png#center)
 
 Back in 2006, Brazil was giving free bus rides to elderly people, in an attempt to provide them with a better quality of life. Many of them wanted to travel cross-state, so they would head over to [one of the busiest bus terminals in Brazil](https://en.wikipedia.org/wiki/Tiet%C3%AA_Bus_Terminal). There was a LAN center in that bus terminal that offered printing services - that's where elderly people would go to print their bus tickets.
