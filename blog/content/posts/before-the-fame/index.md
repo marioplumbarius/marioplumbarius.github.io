@@ -24,17 +24,20 @@ My aunt was a full-time street vendor in São Paulo. She sold all random things 
 Being a stree vendor requires a lot of **social skills** and **resilience**, because you have to convince people to spend their money on products they were not planning to buy. This gets even worse if you have to sell low-quality products, such as the ones me and my aunt sold. If you had a bad sleep the night before, you need to learn how to put a smile on your face and pretend to be the happiest person on earth; otherwise, you won't be able to provide for your family.
 
 ### Social Skills
+
+![Mario Social Skills](mario-social-skills.png#center)
+
 My aunt was better than Steve Jobs when the topic was elevator pitch: she mastered how to make connections with people and this was more than enough to ensure she would live a life without a boss for more than two decades by selling products in the streets of São Paulo. She was loved by literally anyone the moment she entered the room. She was so good at socializing that people would buy her products just because they wanted to have a good conversation with her.
 
 I, at the other hand, was a very quiet and observing child.
-> Why would I try to sell a product for someone that didn't ask for it?
-> Why would I smile to someone that I don't even know?
+> Why would I try to sell a product for someone that didn't ask for it?  
+> Why would I smile to someone that I don't even know?  
 > Why do I have to be nice to someone that is not even nice to me?
 
 As a very shy kid, my brain was full of those thoughts and I simply couldn't become a social butterfly overnight. However, I could see the impact my aunt's social skills had in our lives, I knew I had to try to be more social. The only mistake here was that I didn't know I would need constant support - which I never really had for various reasons, including the fact my whole family was trying to survive without formal education and social inequalities. Supporting me in my journey to become more social was the least of their concerns.
 
 #### Lesson Learned
-It took me more than 20 years to figure out how to become more social. The key learning is that I don't want to. I learned being my best self, shy, is more important then being social. In fact, I learned the more I respect my uniqueness, the more happy I am.
+It took me more than 20 years to figure out how to become more social. Once I learned, I decided I don't want to. I learned being my best self, shy, is more important then being social. In fact, I learned the more I respect my uniqueness, the more happy I become.
 
 ### Resilience
 > Incidents are events that require an intervention or response. Incidents can be the result of normal operation and activity. - [AWS](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.concept.incident.en.html)
