@@ -17,7 +17,7 @@ Before becoming a Software Engineer, I had a few jobs that helped me grow and ex
 
 ## Street Vendor
 
-> Income: $20-$100 per week.
+> Income: $20-$100 per week.  
 > Age: 7-10 years old.
 
 ![Mario Street Vendor](mario-street-vendor.png#center)
@@ -73,7 +73,7 @@ Never leave the shop unattended.  Never trust people who are not from my family.
 
 ## Flyer Distribution
 
-> Income: $50 per day.
+> Income: $50 per day.  
 > Age: 12-14 years old.
 
 ![Mario Flyer Distribution](mario-flyer-distribution.png#center)
