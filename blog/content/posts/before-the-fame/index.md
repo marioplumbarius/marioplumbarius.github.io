@@ -165,6 +165,71 @@ Repetitive tasks are highly detrimental to my level of satisfaction, even if the
 
 ## Logistics
 
+> Income: minimum wage.  
+> Working Days: 5 per week.  
+> Age: 17 years old.
+
 ![Mario Logistics](mario-logistics.png#center)
 
-TBD.
+My aunt-in-law was a production line manager at a business that built healthy meals kit for big coorporations, such as banks and the government. They were deeply involved with social programs too.
+
+### The Role
+I was hired as a logists assistant, and my role was to organize and dispatch food supplies to the production line, wait for them to be cooked, and then fit as much meals kit as I could in an industrial freezer. At the end of my shift, right before I leave, I'd get the meals kit outside of the freezer and help delivery drivers load them into their trucks. My manager did all of that plus the **delivery route planning** and **delivery fee negociations** for all drivers.
+
+### Opportunity: Delivery Route Planning
+
+![Mario Google Mapss](mario-google-maps.png#center)
+
+I didn't have a computer back then, but I was already familar with Google Maps and how to find places. My manager was still using a printed map and he would take 2 hours to finish the route planning. Each driver were given a route to follow, on a A4 piece of paper. Hand written.
+
+One day, before leaving work, I logged into the computer and did the route planning using Google Maps. It took me 20 minutes from start to finish, and all I had to do at the end was to push a "print" button and hand it over to my manager - which received it with a big smile in his face. From that day onwards, I was the one doing the route planning. A few months later, my manager left the company, and I got a promotion.
+
+#### Results
+1. Saved 100 minutes per day to plan routes. It's a total of 50 hours per month.
+1. Optimized routes by distance and traffic conditions, resulting in better fueld consumption.
+1. Optimized truck capacity to fit more meals kit.
+1. Trained drivers on how to use Google Maps to plan their own routes.
+
+### Opportunity: Delivery Fee Negotiations
+
+![Mario Negotiating](mario-negotiating.png#center)
+
+After my manager left the company, the CEO took ownership of delivery fee negotiations. Every day, he would discuss with the drivers about the available routes and the delivery fee. I didn't know at the time, but he was very good at it. So good, he managed to offer me a $100 raise to replace my manager and I accepted. lol. Thanks for the opportunity, Mr. CEO.
+
+The thing is, I was good with numbers, not with people. So I didn't know how to deal with people telling me they should get more pay, or that the CEO was trying to cheat them. It was just too much [social] scope for a shy teenager. I managed to get through it, but I became the enemy of those drivers, for obvious reasons:
+1. First, I optimized the routes, so they had to drive more.
+1. Second, I was the one trying to make them work more, for less pay.
+1. Third, I was 17 years old. And those people don't like to be outsmarted by a young teenager.
+
+#### Results
+1. Without experience and as such a yound age, I managed to keep negotiations under control.
+1. The company was paying much less than the market value for the services I prodived.
+
+### Taking risks: driving a truck
+
+![Mario Truck Driver](mario-truck-driver.png#center)
+
+I talked briefly about this [on Linkedin](https://www.linkedin.com/posts/marioluan_kendrick-kobe-talk-about-their-evolution-activity-7215649225643110400-Ia1u?utm_source=share&utm_medium=member_desktop), how I like to observe and how I learned to live by observing others. At 17 years old, I didn't take many risks - which is quite unusual for a teenager unless I had an impulsive, which I couldn't control.
+
+I observed people driving vehicles over the years, and I was always fascinated by it. The only question was: *"have I learned enough by observing?"*. So, one day, I was alone at work, it was quiet, it was prob. 3am in the morning (yeah, my shift were from 10pm to 7am), and I had the keys to a brand new truck the company had bought. I don't really remember why I did this other than impulse, but I jumped in the drivers seat, turned the key and pressed play. I drove it around the city. I felt the happiest Mario I've ever been. I drive back to work before folks arrive in the morning and play dump.
+
+The day after, the main truck driver realizes the odometer moved, and he tells the CEO something is off. Two days later the CEO calls me in the office, shows me the security camera footage and asks me *"why?"*. My answer was:
+
+> Well, I always wanted to drive a vehicle and I couldn't help it when I saw the opportunity.  
+> You can see in the video I know how to drive it. No damage was done.  
+> I was the happiest person I've ever been that day, so I don't regret it.
+> That being said, I do understand you need to fire me, so that it doesn't tell others this is ok.
+
+See, I knew exactly what I was doing. I knew exactly the risk I was taking and I knew exactly the consequences. In this case, he was loosing, not me. No one would optimize the logistics of his company like me, and get paid what I was getting paid. So, this is what he told me in response:
+
+> If no one else knew this, I wouldn't do anything about it.  
+> The driver that reported you, also doesn't like you. But he is my best driver, so I have to choose between you and him.  
+> I think you will be very successful in life, so I will let you go.
+
+In a different occasion, he told me something that stick to my brain:
+> You are like a balloon in a swimming pool. Those who try to hold you back are merely pushing you down. But the moment you burst free, you will soar into the sky.
+
+#### Lessons Learned
+1. Taking risks is more worthy than what I initially thought.
+1. I know how to identify and optimize unfunctional environments.
+1. Age [only] does not equals experience.
