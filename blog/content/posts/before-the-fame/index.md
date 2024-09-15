@@ -174,7 +174,7 @@ Repetitive tasks are highly detrimental to my level of satisfaction, even if the
 My aunt-in-law was a production line manager at a business that built healthy meals kit for big coorporations, such as banks and the government. They were deeply involved with social programs too.
 
 ### The Role
-I was hired as a logists assistant, and my role was to organize and dispatch food supplies to the production line, wait for them to be cooked, and then fit as much meals kit as I could in an industrial freezer. At the end of my shift, right before I leave, I'd get the meals kit outside of the freezer and help delivery drivers load them into their trucks. My manager did all of that plus the **delivery route planning** and **delivery fee negociations** for all drivers.
+I was hired as a logistics assistant, and my role was to organize and dispatch food supplies to the production line, wait for them to be cooked, and then fit as much meals kit as I could in an industrial freezer. At the end of my shift, right before I leave, I'd get the meals kit outside of the freezer and help delivery drivers load them into their trucks. My manager did all of that plus the **delivery route planning** and **delivery fee negociations** for all drivers.
 
 ### Opportunity: Delivery Route Planning
 
