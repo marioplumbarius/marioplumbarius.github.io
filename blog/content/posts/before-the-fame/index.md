@@ -211,20 +211,21 @@ The thing is, I was good with numbers, not with people. So I didn't know how to 
 
 I talked briefly about this [on Linkedin](https://www.linkedin.com/posts/marioluan_kendrick-kobe-talk-about-their-evolution-activity-7215649225643110400-Ia1u?utm_source=share&utm_medium=member_desktop), how I like to observe and how I learned to live by observing others. At 17 years old, I didn't take many risks - which is quite unusual for a teenager unless I had an impulsive, which I couldn't control.
 
-I observed people driving vehicles over the years, and I was always fascinated by it. The only question was: *"have I learned enough by observing?"*. So, one day, I was alone at work, it was quiet, it was prob. 3am in the morning (yeah, my shift were from 10pm to 7am), and I had the keys to a brand new truck the company had bought. I don't really remember why I did this other than impulse, but I jumped in the drivers seat, turned the key and pressed play. I drove it around the city. I felt the happiest Mario I've ever been. I drive back to work before folks arrive in the morning and play dump.
+I observed people driving vehicles over the years, and I was always fascinated by it. The only question was: *"have I learned enough by observing?"*. So, one day, I was alone at work, it was quiet, it was prob. 3am in the morning (yeah, my shift were from 10pm to 7am), and I had the keys to a brand new truck the company had bought. I don't really remember why I did this other than impulse, but I jumped in the drivers seat, turned the key and pressed play. I drove it around the city. I felt the happiest Mario I've ever been. I drove back to work before folks arrived in the morning and played dumb.
 
-The day after, the main truck driver realizes the odometer moved, and he tells the CEO something is off. Two days later the CEO calls me in the office, shows me the security camera footage and asks me *"why?"*. My answer was:
+The day after, the main truck driver realized the odometer moved, and he told the CEO something was off. Two days later the CEO calls me in the office, shows me the security camera footage and asks me *"why?"*. My answer was:
 
-> Well, I always wanted to drive a vehicle and I couldn't help it when I saw the opportunity.  
-> You can see in the video I know how to drive it. No damage was done.  
-> I was the happiest person I've ever been that day, so I don't regret it.
-> That being said, I do understand you need to fire me, so that it doesn't tell others this is ok.
+> Well, I always wanted to drive a vehicle and I couldn't help it when I saw the opportunity. You 
+> can see in the video I know how to drive it. No damage was done. I was the happiest person I've 
+> ever been that day, so I don't regret it. That being said, I take full responsibility and I 
+> understand if you have to fire me, so that others don't think this behavior is ok.
 
-See, I knew exactly what I was doing. I knew exactly the risk I was taking and I knew exactly the consequences. In this case, he was loosing, not me. No one would optimize the logistics of his company like me, and get paid what I was getting paid. So, this is what he told me in response:
+See, I knew exactly what I was doing. I knew exactly the risk I was taking and I knew exactly the consequences. In this case, he was loosing, not me. No one would optimize the logistics of his company like me, and get paid what I was getting paid. This was his response to me:
 
-> If no one else knew this, I wouldn't do anything about it.  
-> The driver that reported you, also doesn't like you. But he is my best driver, so I have to choose between you and him.  
-> I think you will be very successful in life, so I will let you go.
+> If no one else knew this, I wouldn't do anything about it. The driver that reported you is pissed 
+> because of the optimizations you did, so he is taking advantage of this. But he is my best 
+> driver, so I have to choose between you and him. I think you will be very successful in life, so 
+> I will let you go.
 
 In a different occasion, he told me something that stick to my brain:
 > You are like a balloon in a swimming pool. Those who try to hold you back are merely pushing you down. But the moment you burst free, you will soar into the sky.
