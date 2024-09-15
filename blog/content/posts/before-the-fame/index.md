@@ -18,6 +18,7 @@ Before becoming a Software Engineer, I had a few jobs that helped me grow and ex
 ## Street Vendor
 
 > Income: $20-$100 per week.  
+> Working Days: 2 per week.  
 > Age: 7-10 years old.
 
 ![Mario Street Vendor](mario-street-vendor.png#center)
@@ -74,6 +75,7 @@ Never leave the shop unattended.  Never trust people who are not from my family.
 ## Flyer Distribution
 
 > Income: $50 per day.  
+> Working Days: 2 per week.  
 > Age: 12-14 years old.
 
 ![Mario Flyer Distribution](mario-flyer-distribution.png#center)
@@ -91,6 +93,7 @@ Well, at the age of 11-14 (yeah, my memory sucks), I didn't have many options, s
 ## Printing Service
 
 > Income: pizza and minimum wage.  
+> Working Days: 5 days peer week.  
 > Age: 12-15 years old.
 
 ![Mario Printing Services](mario-printing-services.png#center)
@@ -117,6 +120,7 @@ Family-owned business has a lower entry barrier. Party should always come after 
 ## LAN center
 
 > Income: $400 per month.  
+> Working Days: 5 per week.  
 > Age: 16 years old.
 
 ![Mario Computer Attendant](mario-computer-attendant.png#center)
@@ -150,7 +154,8 @@ I must never party on Sunday evening. I'm not a morning person.
 
 ## Delivery (by bus)
 
-> Income: minimum wage.
+> Income: minimum wage.  
+> Working Days: 5 per week.  
 > Age: 17 years old.
 
 I worked as the delivery guy for a dental prostheses, which was a family-owned business from one of my friends. My job was to deliver the prostheses to the dentist's office by public transport. I liked to travel by bus, so it was a good deal. I'd deliver from 2 to 4 dental prostheses per day and travel 100km max. Buses in Brazil were very noisy and crowded, so this was a way to practice my resilience.
