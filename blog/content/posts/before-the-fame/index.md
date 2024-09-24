@@ -209,28 +209,24 @@ The thing is, I was good with numbers, not with people. So I didn't know how to 
 
 ![Mario Truck Driver](mario-truck-driver.png#center)
 
-I talked briefly about this [on Linkedin](https://www.linkedin.com/posts/marioluan_kendrick-kobe-talk-about-their-evolution-activity-7215649225643110400-Ia1u?utm_source=share&utm_medium=member_desktop), how I like to observe and how I learned to live by observing others. At 17 years old, I didn't take many risks - which is quite unusual for a teenager unless I had an impulsive, which I couldn't control.
+I talked briefly about this [on Linkedin](https://www.linkedin.com/posts/marioluan_kendrick-kobe-talk-about-their-evolution-activity-7215649225643110400-Ia1u?utm_source=share&utm_medium=member_desktop), how I like to observe and how I learned to live by observing others. At 17 years old, I didn't take as many risks - which is quite unusual for a teenager, unless I was **passionate about something**.
 
-I observed people driving vehicles over the years, and I was always fascinated by it. The only question was: *"have I learned enough by observing?"*. So, one day, I was alone at work, it was quiet, it was prob. 3am in the morning (yeah, my shift were from 10pm to 7am), and I had the keys to a brand new truck the company had bought. I don't really remember why I did this other than impulse, but I jumped in the drivers seat, turned the key and pressed play. I drove it around the city. I felt the happiest Mario I've ever been. I drove back to work before folks arrived in the morning and played dumb.
+I observed people driving vehicles since I was a child, and it was fascinating. The only I had back then was: *"have I learned enough by observing?"*. So, one day, I was alone at work, it was quiet, it was probably 3am in the morning (yeah, my working schedule were from 10pm to 7am), and I had the keys to a brand new truck the company had bought. I don't really remember what was my motivation, but I do recall having this passion about driving cars... so, I jumped in the drivers seat, turned the key and pressed play. I drove it around the city. I felt the happiest Mario I've ever been. I drove back to work before folks arrived in the morning and played dumb.
 
-The day after, the main truck driver realized the odometer moved, and he told the CEO something was off. Two days later the CEO calls me in the office, shows me the security camera footage and asks me *"why?"*. My answer was:
+The day after, the main truck driver realized the odometer moved a few KMs. He told the CEO something was off. Two days later the CEO calls me in his office. He showed me the security camera footage and wonders *"why?"*. My honest answer was more or less like as follows:
 
-> Well, I always wanted to drive a vehicle and I couldn't help it when I saw the opportunity. You 
-> can see in the video I know how to drive it. No damage was done. I was the happiest person I've 
-> ever been that day, so I don't regret it. That being said, I take full responsibility and I 
-> understand if you have to fire me, so that others don't think this behavior is ok.
+> Well, I always wanted to drive a vehicle and I couldn't help it when I saw the opportunity.  
+> I cannot explain why I took the risk, but we can both see in the video I know how to drive it.
+> I don't actually regret it, to be honest. It's ok if you have to fire me.
 
-See, I knew exactly what I was doing. I knew exactly the risk I was taking and I knew exactly the consequences. In this case, he was loosing, not me. No one would optimize the logistics of his company like me, and get paid what I was getting paid. This was his response to me:
+See, I didn't expect him to caught me, but I also wasn't particularly afraid of the consequences. Back then, I was about to get married, and I realized I was able to make an impact if I was empowered to do so. That being said, fiding another job was the least of my concerns.
 
-> If no one else knew this, I wouldn't do anything about it. The driver that reported you is pissed 
-> because of the optimizations you did, so he is taking advantage of this. But he is my best 
-> driver, so I have to choose between you and him. I think you will be very successful in life, so 
-> I will let you go.
+Now, giving the context I was in back then, it was not a big of a deal. Taking that risk, achieving my goal and later being fired, taught me a lot about risk management. See, even though I was wrong and the CEO was angry, he was angry because I was able to make an impact in a short period of time and he would need to let me go, not necessarily because I messed up.
 
 In a different occasion, he told me something that stick to my brain:
 > You are like a balloon in a swimming pool. Those who try to hold you back are merely pushing you down. But the moment you burst free, you will soar into the sky.
 
 #### Lessons Learned
-1. Taking risks is more worthy than what I initially thought.
-1. I know how to identify and optimize unfunctional environments.
-1. Age [only] does not equals experience.
+1. Risk taking is one of the most important skills I can develop.
+1. Businesses care more about outcomes than processes.
+1. Age [alone] does not equals experience.
