@@ -13,7 +13,7 @@ showTags: true
 hideBackToTop: false
 ---
 
-Before becoming a Software Engineer, I had a few jobs that helped me grow and expand my horizons.
+Before becoming a Software Engineer, I had a few jobs that helped me grow and expand my horizons. In this post, I'll talk about my first "job" as a Street Vendor up to when I became a Logistics Assistant, saved 50 hours per week of a manager role, got a promotion, then got fired for taking too many risks.
 
 ## Street Vendor
 
