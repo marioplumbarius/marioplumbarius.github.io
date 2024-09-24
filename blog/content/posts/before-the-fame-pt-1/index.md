@@ -1,8 +1,8 @@
 ---
 draft: false
-title: "Before The Fame"
+title: "Before The Fame, Pt 1"
 date: "2024-09-14"
-summary: "What did I do before becoming a Software Engineer."
+summary: "From Street Vendor to Logistics Assistant."
 description: ""
 toc: true
 readTime: true
